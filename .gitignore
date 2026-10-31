@@ -1,0 +1,13 @@
+# 런타임 데이터 (로컬 목록)
+shopping_list.json
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Playwright / OS
+.playwright-mcp/
+.DS_Store
